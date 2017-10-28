@@ -1,0 +1,2 @@
+
+hist(whales$Depth)
